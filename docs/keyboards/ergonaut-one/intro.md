@@ -29,7 +29,7 @@ We wanted to create a pretty affordable, nice looking, and, most importantly, ve
 * Budget-friendly, because:
   * It uses relatively cheap and widely available [Seeed Studio XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) as MCU;
   * It uses one PCB design for both halves of the keyboard;
-  * Everything except PCB's, components and hardware (screws, nuts) can be 3D printed.
+  * Everything except PCBs, components and hardware (screws, nuts) can be 3D printed.
 * Beginner-friendly, because:
   * PCB is easy to solder;
   * Cases are easy to print.
